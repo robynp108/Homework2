@@ -2,10 +2,6 @@
     box-sizing:border-box;
 }
 
-#nav {
-    display: flex;
-}
-
 .footer {
     position: fixed;
     bottom: 0;
