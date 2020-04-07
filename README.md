@@ -28,12 +28,12 @@ For this assignment, I created a simple portfolio website using Bootstrap with R
 ## Page Screenshots
 
 ### About
-![About](AboutScreenshot.png)
+![About](./Assets/AboutScreenshot.png)
 
 ### Portfolio
-![Portfolio](PortfolioScreenshot.png)
+![Portfolio](./Assets/PortfolioScreenshot.png)
 
 ### Contact
-![Contact](ContactScreenshot.png)
+![Contact](./Assets/ContactScreenshot.png)
 
 
