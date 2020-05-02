@@ -21,6 +21,14 @@ body {
     background-color: lightgray;
 }
 
-#weather {
+#stay-home {
     height: 230px;
+}
+
+#planner {
+    height: 200px;
+}
+
+#weather {
+    height: 180px;
 }
